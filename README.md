@@ -1,6 +1,6 @@
 # C# Intern Testing
 
-# 📊 Product Sales Reporting Tool (WinForms + DevExpress)
+# Product Sales Reporting Tool (WinForms + DevExpress)
 
 This project is a **C# WinForms application** built for a **Developer Internship Coding Test**. It connects to a **SQL Server** database, fetches product sales data, and displays it using **DevExpress XtraReport** with filtering, grouping, and exporting features.
 
