@@ -6,12 +6,12 @@ This project is a **C# WinForms application** built for a **Developer Internship
 
 ---
 
-## 🧩 Features
+##  Features
 
 - Connects to SQL Server using **ADO.NET**
 - Allows filtering sales data by:
-  - ✅ Date Range (`Start Date` to `End Date`)
-  - ✅ Partial Product Name
+  -  Date Range (`Start Date` to `End Date`)
+  - Partial Product Name
 - Displays a formatted report using **DevExpress XtraReport**
   - Groups by `ProductCode`
   - Shows detailed product rows
@@ -23,7 +23,7 @@ This project is a **C# WinForms application** built for a **Developer Internship
 
 ---
 
-## 🛠️ Technologies Used
+ Technologies Used
 
 - C# (.NET Framework)
 - WinForms
@@ -33,5 +33,5 @@ This project is a **C# WinForms application** built for a **Developer Internship
 
 ---
 
-## 📁 Project Structure
+ Project Structure
 
